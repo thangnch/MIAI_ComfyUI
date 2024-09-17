@@ -1,7 +1,7 @@
 # MIAI_ComfyUI
 Demo of using ComfyUI with custom node
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link:  https://youtu.be/QFdfL5LFAmE
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
